@@ -2,13 +2,7 @@ package game;
 import hsa2.GraphicsConsole;
 import java.awt.Font;	
 import java.awt.Color;
-
-/*Kevin
- * Take a look of my code
- * 
- * I like using methords, although many of them are not nessasary
- * It's like making folders. XD
- */
+//This us the main file of the project
 
 public class FallingBlocks {
     public static void main(String [] args) {
